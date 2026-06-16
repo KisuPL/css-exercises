@@ -1,0 +1,10 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* a red background, white text, a font size of 32px, center aligned, and bold */
+}
